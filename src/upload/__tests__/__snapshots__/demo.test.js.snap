@@ -210,7 +210,7 @@ exports[`Upload Upload draggableVue demo works fine 1`] = `
      
     <div>
       <div
-        class="t-radio-group t-size-m t-radio-group--filled"
+        class="t-radio-group t-radio-group--filled t-size-m"
       >
         <label
           class="t-radio-button t-is-checked"
@@ -1267,7 +1267,7 @@ exports[`Upload Upload requestMethodVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"

@@ -1184,7 +1184,7 @@ exports[`SelectInput SelectInput multipleVue demo works fine 1`] = `
    
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group__outline"
+      class="t-radio-group t-radio-group__outline t-stroke-size-m"
     >
       <label
         class="t-radio"

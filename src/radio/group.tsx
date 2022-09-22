@@ -67,13 +67,17 @@ export default mixins(classPrefixMixins).extend({
 
     const groupClass = [
       `${this.componentName}`,
-      this.commonSizeClassName[this.size],
       {
         [`${this.componentName}__outline`]: this.variant === 'outline',
         [`${this.componentName}--filled`]: this.variant.includes('filled'),
         [`${this.componentName}--primary-filled`]: this.variant === 'primary-filled',
       },
     ];
+    if (this.variant === 'outline') {
+      groupClass.push(this.commonSizeClassName[`outline${this.size}`]);
+    } else {
+      groupClass.push(this.commonSizeClassName[this.size]);
+    }
     if (this.variant.includes('filled')) {
       children && children.push(<div style={this.barStyle} class={`${this.componentName}__bg-block`}></div>);
     }

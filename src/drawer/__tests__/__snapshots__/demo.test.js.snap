@@ -68,7 +68,7 @@ exports[`Drawer Drawer attachParentVue demo works fine 1`] = `
       抽屉弹出方向：
       
       <div
-        class="t-radio-group t-size-m t-radio-group__outline"
+        class="t-radio-group t-radio-group__outline t-stroke-size-m"
       >
         <label
           class="t-radio-button"
@@ -157,7 +157,7 @@ exports[`Drawer Drawer attachParentVue demo works fine 1`] = `
       抽屉弹出模式：
       
       <div
-        class="t-radio-group t-size-m t-radio-group__outline"
+        class="t-radio-group t-radio-group__outline t-stroke-size-m"
       >
         <label
           class="t-radio-button t-is-checked"
@@ -834,7 +834,7 @@ exports[`Drawer Drawer placementVue demo works fine 1`] = `
     class="tdesign-radio-button"
   >
     <div
-      class="t-radio-group t-size-m t-radio-group__outline"
+      class="t-radio-group t-radio-group__outline t-stroke-size-m"
     >
       <label
         class="t-radio-button"
@@ -937,7 +937,7 @@ exports[`Drawer Drawer popupVue demo works fine 1`] = `
     抽屉弹出模式：
     
     <div
-      class="t-radio-group t-size-m t-radio-group__outline"
+      class="t-radio-group t-radio-group__outline t-stroke-size-m"
     >
       <label
         class="t-radio-button"
@@ -1058,7 +1058,7 @@ exports[`Drawer Drawer sizeDraggableVue demo works fine 1`] = `
     class="tdesign-radio-button"
   >
     <div
-      class="t-radio-group t-size-m t-radio-group__outline"
+      class="t-radio-group t-radio-group__outline t-stroke-size-m"
     >
       <label
         class="t-radio-button"
@@ -1211,7 +1211,7 @@ exports[`Drawer Drawer sizeVue demo works fine 1`] = `
     class="tdesign-radio-button"
   >
     <div
-      class="btn-top-margin t-radio-group t-size-m t-radio-group__outline"
+      class="btn-top-margin t-radio-group t-radio-group__outline t-stroke-size-m"
     >
       <label
         class="t-radio-button t-is-checked"

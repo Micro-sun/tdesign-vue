@@ -823,7 +823,7 @@ exports[`Table Table asyncLoadingVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button"
@@ -1145,7 +1145,7 @@ exports[`Table Table baseVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button"
@@ -1941,7 +1941,7 @@ exports[`Table Table customColButtonVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button"
@@ -3052,7 +3052,7 @@ exports[`Table Table customFooterVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -6317,7 +6317,7 @@ exports[`Table Table expandableVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -7243,7 +7243,7 @@ exports[`Table Table filterControlledVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -7724,7 +7724,7 @@ exports[`Table Table fixedColumnVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button"
@@ -7772,7 +7772,7 @@ exports[`Table Table fixedColumnVue demo works fine 1`] = `
    
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -7820,7 +7820,7 @@ exports[`Table Table fixedColumnVue demo works fine 1`] = `
    
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -8323,7 +8323,7 @@ exports[`Table Table fixedHeaderColVue demo works fine 1`] = `
 >
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -9302,7 +9302,7 @@ exports[`Table Table fixedHeaderVue demo works fine 1`] = `
 <div>
   <div>
     <div
-      class="t-radio-group t-size-m t-radio-group--filled"
+      class="t-radio-group t-radio-group--filled t-size-m"
     >
       <label
         class="t-radio-button t-is-checked"
@@ -21573,7 +21573,7 @@ exports[`Table Table treeSelectVue demo works fine 1`] = `
       class="t-space-item"
     >
       <div
-        class="t-radio-group t-size-m t-radio-group--filled"
+        class="t-radio-group t-radio-group--filled t-size-m"
       >
         <label
           class="t-radio-button t-is-checked"

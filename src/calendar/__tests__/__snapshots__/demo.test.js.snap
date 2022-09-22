@@ -120,7 +120,7 @@ exports[`Calendar Calendar baseVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -971,7 +971,7 @@ exports[`Calendar Calendar cardVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-m t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-m"
           >
             <label
               class="t-radio-button t-is-checked"
@@ -1720,7 +1720,7 @@ exports[`Calendar Calendar cellAppendVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -2503,7 +2503,7 @@ exports[`Calendar Calendar cellVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -3591,7 +3591,7 @@ exports[`Calendar Calendar controllerConfigVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-s t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-s"
           >
             <label
               class="t-radio-button t-is-checked"
@@ -4367,7 +4367,7 @@ exports[`Calendar Calendar eventsVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-m t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-m"
           >
             <label
               class="t-radio-button t-is-checked"
@@ -5191,7 +5191,7 @@ exports[`Calendar Calendar firstDayOfWeekVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-m t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-m"
           >
             <label
               class="t-radio-button t-is-checked"
@@ -6069,7 +6069,7 @@ exports[`Calendar Calendar headVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -6841,7 +6841,7 @@ exports[`Calendar Calendar modeVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-m t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-m"
           >
             <label
               class="t-radio-button"
@@ -7217,7 +7217,7 @@ exports[`Calendar Calendar rangeVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -7992,7 +7992,7 @@ exports[`Calendar Calendar slotPropsApiVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-m t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-m"
         >
           <label
             class="t-radio-button t-is-checked"
@@ -8844,7 +8844,7 @@ exports[`Calendar Calendar valueVue demo works fine 1`] = `
           style="height: auto;"
         >
           <div
-            class="t-radio-group t-size-m t-radio-group--filled"
+            class="t-radio-group t-radio-group--filled t-size-m"
           >
             <label
               class="t-radio-button t-is-checked"
@@ -9728,7 +9728,7 @@ exports[`Calendar Calendar weekVue demo works fine 1`] = `
             style="height: auto;"
           >
             <div
-              class="t-radio-group t-size-m t-radio-group--filled"
+              class="t-radio-group t-radio-group--filled t-size-m"
             >
               <label
                 class="t-radio-button t-is-checked"
@@ -10505,7 +10505,7 @@ exports[`Calendar Calendar weekVue demo works fine 1`] = `
             style="height: auto;"
           >
             <div
-              class="t-radio-group t-size-m t-radio-group--filled"
+              class="t-radio-group t-radio-group--filled t-size-m"
             >
               <label
                 class="t-radio-button t-is-checked"
@@ -11268,7 +11268,7 @@ exports[`Calendar Calendar weekVue demo works fine 1`] = `
             style="height: auto;"
           >
             <div
-              class="t-radio-group t-size-m t-radio-group--filled"
+              class="t-radio-group t-radio-group--filled t-size-m"
             >
               <label
                 class="t-radio-button t-is-checked"

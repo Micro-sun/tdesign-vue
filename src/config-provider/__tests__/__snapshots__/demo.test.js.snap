@@ -123,7 +123,7 @@ exports[`ConfigProvider ConfigProvider calendarVue demo works fine 1`] = `
         style="height: auto;"
       >
         <div
-          class="t-radio-group t-size-s t-radio-group--filled"
+          class="t-radio-group t-radio-group--filled t-size-s"
         >
           <label
             class="t-radio-button t-is-checked"

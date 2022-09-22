@@ -541,7 +541,7 @@ exports[`Tree Tree checkableVue demo works fine 1`] = `
             class="t-form__controls-content"
           >
             <div
-              class="t-radio-group t-size-m t-radio-group--filled"
+              class="t-radio-group t-radio-group--filled t-size-m"
             >
               <label
                 class="t-radio-button t-is-checked"

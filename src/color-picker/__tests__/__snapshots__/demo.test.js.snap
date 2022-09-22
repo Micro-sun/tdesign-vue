@@ -207,7 +207,7 @@ exports[`ColorPicker ColorPicker enableAlphaVue demo works fine 1`] = `
       class="t-color-picker__mode"
     >
       <div
-        class="t-radio-group t-size-s t-radio-group--filled"
+        class="t-radio-group t-radio-group--filled t-size-s"
       >
         <label
           class="t-radio-button t-is-checked"
@@ -1027,7 +1027,7 @@ exports[`ColorPicker ColorPicker panelVue demo works fine 1`] = `
       class="t-color-picker__mode"
     >
       <div
-        class="t-radio-group t-size-s t-radio-group--filled"
+        class="t-radio-group t-radio-group--filled t-size-s"
       >
         <label
           class="t-radio-button t-is-checked"
@@ -1823,7 +1823,7 @@ exports[`ColorPicker ColorPicker recentColorVue demo works fine 1`] = `
               class="t-color-picker__mode"
             >
               <div
-                class="t-radio-group t-size-s t-radio-group--filled"
+                class="t-radio-group t-radio-group--filled t-size-s"
               >
                 <label
                   class="t-radio-button t-is-checked"
@@ -2732,7 +2732,7 @@ exports[`ColorPicker ColorPicker recentColorVue demo works fine 1`] = `
               class="t-color-picker__mode"
             >
               <div
-                class="t-radio-group t-size-s t-radio-group--filled"
+                class="t-radio-group t-radio-group--filled t-size-s"
               >
                 <label
                   class="t-radio-button t-is-checked"
@@ -3519,7 +3519,7 @@ exports[`ColorPicker ColorPicker statusReadonlyVue demo works fine 1`] = `
       class="t-color-picker__mode"
     >
       <div
-        class="t-radio-group t-size-s t-radio-group--filled"
+        class="t-radio-group t-radio-group--filled t-size-s"
       >
         <label
           class="t-radio-button t-is-checked"
@@ -4318,7 +4318,7 @@ exports[`ColorPicker ColorPicker swatchColorVue demo works fine 1`] = `
               class="t-color-picker__mode"
             >
               <div
-                class="t-radio-group t-size-s t-radio-group--filled"
+                class="t-radio-group t-radio-group--filled t-size-s"
               >
                 <label
                   class="t-radio-button t-is-checked"
@@ -4690,7 +4690,7 @@ exports[`ColorPicker ColorPicker swatchColorVue demo works fine 1`] = `
               class="t-color-picker__mode"
             >
               <div
-                class="t-radio-group t-size-s t-radio-group--filled"
+                class="t-radio-group t-radio-group--filled t-size-s"
               >
                 <label
                   class="t-radio-button t-is-checked"
